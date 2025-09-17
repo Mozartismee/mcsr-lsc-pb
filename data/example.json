@@ -1,0 +1,28 @@
+{
+  "domain_c": [
+    "sheaf: section -> glue",
+    "ring: ideal -> quotient",
+    "identity: map -> equalizer"
+  ],
+  "domain_d": [
+    "bundle: section -> patch",
+    "algebra: ideal -> quotient",
+    "self: map -> equality"
+  ],
+  "L_map": {
+    "sheaf": "sheaf",
+    "section": "sec",
+    "glue": "glue",
+    "ring": "ring",
+    "ideal": "ideal",
+    "quotient": "quo",
+    "identity": "id",
+    "map": "map",
+    "equalizer": "eq",
+    "bundle": "sheaf",
+    "patch": "glue",
+    "algebra": "ring",
+    "self": "id",
+    "equality": "eq"
+  }
+}
